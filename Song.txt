@@ -11,8 +11,6 @@ in the index
 
 another two lines
 that i made on github
-<<<<<<< HEAD
 
 sdfhgashkf
-=======
->>>>>>> 9d977e353cf8b43a46155d8273ef0d783c40e69d
+
