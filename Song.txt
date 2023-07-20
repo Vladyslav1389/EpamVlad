@@ -12,5 +12,5 @@ in the index
 another two lines
 that i made on github
 
-for revert in file
+for push revert
 
